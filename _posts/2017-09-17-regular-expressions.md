@@ -53,9 +53,3 @@ print(result.group())
 	>>>'Cani! lupu! familiari!'
 	```
 6. 정규표현식의 패턴문자
-	패턴 | 문자
-	----|----
-	\d  | 숫자
-	\D  | 비숫자
-	\w  | 문자
-	\W  | 비문자
